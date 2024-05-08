@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanthoshT2001
 - 👀 I’m interested in programming
-- 🌱 I’m currently studying Mtech integrated in VIT, vellore
+- 🌱 I’m currently working at Dell Technologies
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me santhoshthummalacheruvu@gmail.com
 
